@@ -2,12 +2,12 @@
 
 <img align="right" width="380" src="https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80" />
 
-### 🚀 Estudiante de Ingeniería en Sistemas | 7mo Semestre UMG
+###  Estudiante de Ingeniería en Sistemas | 7mo Semestre UMG
 Soy un apasionado de la tecnología y la resolución de problemas lógicos, actualmente enfocado en fortalecer mis habilidades en el desarrollo de software y la gestión de bases de datos desde **Sololá, Guatemala**.
 
 ---
 
-### 🔍 Sobre mí
+###  Sobre mí
 - 🎓 Estudiante de **Ingeniería en Sistemas** en la Universidad Mariano Gálvez.
 - 💻 Actualmente profundizando en **C++** y arquitectura de computadores.
 - 🗄️ Interesado en la optimización de consultas **SQL** y principios **ACID**.
@@ -15,7 +15,7 @@ Soy un apasionado de la tecnología y la resolución de problemas lógicos, actu
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+###  Tecnologías y Herramientas
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
@@ -27,7 +27,7 @@ Soy un apasionado de la tecnología y la resolución de problemas lógicos, actu
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+###  Mis Estadísticas de GitHub
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LDavidCastro&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDavidCastro&layout=compact&theme=tokyonight" />
@@ -35,5 +35,5 @@ Soy un apasionado de la tecnología y la resolución de problemas lógicos, actu
 
 ---
 
-### 📫 Contacto
+###  Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-castro-a081363b8)
