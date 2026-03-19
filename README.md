@@ -1,4 +1,4 @@
-# ¡Hola! Soy David Castro 👨‍💻
+# ¡Hola! Soy David Castro 
 
 <img align="right" width="380" src="https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80" />
 
