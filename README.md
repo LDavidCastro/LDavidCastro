@@ -1,32 +1,51 @@
-# ¡Hola! Soy David Castro 
+# ¡Hola! Soy David Castro 👋
 
-<img align="right" width="380" src="https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80" />
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDavidCastro&layout=compact&theme=tokyonight&hide=html,css" />
 
-###  Estudiante de Ingeniería en Sistemas | 7mo Semestre UMG
-Soy un apasionado de la tecnología y la resolución de problemas lógicos, actualmente enfocado en fortalecer mis habilidades en el desarrollo de software y la gestión de bases de datos desde **Sololá, Guatemala**.
-
----
-
-###  Sobre mí
-- 🎓 Estudiante de **Ingeniería en Sistemas** en la Universidad Mariano Gálvez.
-- 💻 Actualmente profundizando en **C++** y arquitectura de computadores.
-- 🗄️ Interesado en la optimización de consultas **SQL** y principios **ACID**.
-- 🎯 Buscando mi primera oportunidad de **Prácticas Profesionales** para aportar y aprender.
+### 🚀 Estudiante de Ingeniería en Sistemas | 7mo Semestre UMG
+Soy un apasionado de la tecnología y la resolución de problemas lógicos desde **Sololá, Guatemala**. Mi enfoque combina la precisión analítica de mi formación como **Perito Contador** con la potencia del desarrollo de software.
 
 ---
 
-###  Tecnologías y Herramientas
+### 🔍 Sobre mí
+- 🎓 Estudiante avanzado en la **Universidad Mariano Gálvez de Guatemala**.
+- 🛠️ Especializándome en **Backend (C++, SQL Server)** y desarrollo móvil con **Flutter/Firebase**.
+- 🐧 Entusiasta de **Linux** y la administración de sistemas.
+- 💼 Buscando impactar en proyectos de **Desarrollo Junior** o **Soporte Técnico Especializado**.
+- 🗣️ Idiomas: Español (Nativo), Kaqchikel (Comprensión avanzada), Inglés (Básico).
+
+---
+
+### 🛠️ Tecnologías y Herramientas
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
 
+### 📈 Mis Estadísticas
+<p align="center">
+  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=LDavidCastro&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
+
+---
+
+### 🤝 Contacto y Redes
+<p align="left">
+<a href="https://www.linkedin.com/in/david-castro-sistemas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:castrococheluisdavid@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
+
+---
+
+### 📂 Proyectos Destacados
+* **[Sistema de Gestión de Café](https://github.com/LDavidCastro)**: Aplicación en C++ utilizando Estructuras de Datos (Árboles AVL).
+* **[Rastreo GPS en Tiempo Real](https://github.com/LDavidCastro)**: App móvil desarrollada con Flutter y Firebase.
 ###  Mis Estadísticas de GitHub
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LDavidCastro&show_icons=true&theme=tokyonight" />
