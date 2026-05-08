@@ -40,6 +40,15 @@ Apasionado por la tecnología, el desarrollo de software y la resolución de pro
 
 ---
 
+
+## Contacto y Redes
+<p align="left">
+<a href="https://www.linkedin.com/in/david-castro-sistemas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:castrococheluisdavid@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
+
+---
+
 ### Proyectos Destacados
 
 - 📍 Sistema de rastreo GPS en tiempo real con Flutter y Firebase.
